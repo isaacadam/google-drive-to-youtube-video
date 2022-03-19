@@ -1,5 +1,5 @@
 #!/usr/bin/python
-pip2 install httplib2 --upgrade
+!pip install httplib2 --upgrade
 import httplib
 import httplib2
 import os
